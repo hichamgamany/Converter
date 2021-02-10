@@ -48,6 +48,7 @@
 		95A7C90525D361A4006F7C70 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				958905FE25D3F9A4007A6D37 /* TemperatureView.swift */,
 				95A7C90625D361DB006F7C70 /* VolumeView.swift */,
 				958905F825D3ED6D007A6D37 /* DistanceView.swift */,
 				958905FB25D3F20D007A6D37 /* MassView.swift */,
@@ -58,7 +59,6 @@
 		95F6DCC025D32B1E008718E3 = {
 			isa = PBXGroup;
 			children = (
-				958905FE25D3F9A4007A6D37 /* TemperatureView.swift */,
 				95F6DCCB25D32B1E008718E3 /* Converter */,
 				95F6DCCA25D32B1E008718E3 /* Products */,
 			);
